@@ -1,4 +1,5 @@
-# Global University Success Factors — Scraping & API Analysis
+# Global University Success Factors — Scraping & API Analysis.
+
 
 ## О проекте
 
