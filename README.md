@@ -1,4 +1,4 @@
-## Описание данных
+# Проект Universities
 
 **Источники:** https://www.unipage.net/en/universities, https://databank.worldbank.org/, https://knoema.ru
 
